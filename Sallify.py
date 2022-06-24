@@ -16,8 +16,6 @@ from pytube import Playlist
 from pytube import YouTube
 from requests import get
 
-# test
-
 global Video_info
 Video_info = ["None", "False", "Video_time_sek"]
 global sock
